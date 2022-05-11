@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">5.5",
+    "php": ">=8.0",
     "alibabacloud/tea-utils": "^0.2.0",
     "bain2018/tea-oss-utils": "^1.0.0",
     "alibabacloud/tea-xml": "^0.2",
